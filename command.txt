@@ -1,0 +1,11 @@
+git clone link
+
+git and github
+
+alternatives : AWS,Bitbucket,gitlab
+
+git add . >>>>>> add the file to the staging alternatives (files is being tracked by git)
+
+git commit -m "message"   >>>>>>>>>>>>>> to commit the change in the tracked file
+
+git push orgin main >>> pushing the file to the changes in the main branch in githb repository
